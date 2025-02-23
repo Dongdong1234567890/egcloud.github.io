@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(232, 240, 221);
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.bl {
+    margin: 0;
+    margin-right: 85%;
+    line-height: 1.6;
+    background-color: #d11f1f;
+}
+
+.content {
+    margin: 15px 20px;
+    line-height: 1.6;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.wz {
+    font-weight: lighter;
+}
+
+.wz2 {
+    font-weight: bold;
+    color: #333;
+}
